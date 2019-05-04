@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "MSc Candidate"
+role = "Interaction designer - System analyst - Vice chairman"
 
 # Organizations/Affiliations
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -79,6 +79,6 @@ interests = [
 The man - the myth - the dude.
 --------------
 
-My name is Johnny.
+I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta student union, and is finishing my thesis in the Informatics programme at the Department of Applied IT of the University of Gothenburg.
 
-I like to create things. And to think about things. Thinking about creating, and creating things to think about.
+Next semester I'll be starting the Interaction Design and Technology MSc programmet at Chalmers, and will continue on as Chairman of the IT-section during this time. Maybe I'll even become a TA again?
