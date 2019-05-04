@@ -23,10 +23,10 @@
   url = "#accomplishments"
   weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "Gitbook / Wiki pages"
+  url = "https://gitbook.junsani.me"
+  weight = 90
 
 #[[main]]
 # name = "Tutorials"
