@@ -9,12 +9,13 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Interaction designer - System analyst - Vice chairman"
+role = "Interaction Design and Intelligent System Design @ Chalmers"
 
 # Organizations/Affiliations
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [
                 { name = "Department of Computer Science and Engineering", url = "https://www.chalmers.se/en/departments/cse/Pages/default.aspx"},
+                { name = "Department of Applied IT",                       url = "http://www.ait.gu.se"},
 	       	      { name = "Chalmers University of Technology",		           url = "https://www.chalmers.se"},
 		            { name = "IT-faculty at University of Gothenburg",         url = "https://itufak.gu.se"},
 		            { name = "IT-section at Göta Student Union",              url = "https://www.gotastudentkar.se/sektioner/it-section"}
@@ -47,8 +48,8 @@ interests = [
   year = 2021
 
 [[education.courses]]
-  course = "BSc in Informatics"
-  institution = "Department of Applied Information Technology, University of Gothenburg"
+  course = "BSc in Informatics and System Science"
+  institution = "Department of Applied IT, University of Gothenburg"
   year = 2019
 
 # Social/Academic Networking
@@ -76,7 +77,7 @@ interests = [
 
 +++
 --------------
-The man - the myth - the dude.
+Hello there.
 --------------
 
 I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta student union, and is finishing my thesis in the Informatics programme at the Department of Applied IT of the University of Gothenburg.
