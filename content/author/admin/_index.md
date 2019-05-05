@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Interaction Design and Intelligent System Design @ Chalmers"
+role = "Interaction Design and System Design @ Chalmers"
 
 # Organizations/Affiliations
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -32,9 +32,7 @@ interests = [
   "Informatics",
   "Software Engineering",
   "Human-Computer Interaction",
-  "Information Science",
   "Data Science",
-  "Anime",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -45,10 +43,9 @@ interests = [
 [[education.courses]]
   course = "MSc candidate, Computer Science and Engineering - Interaction Design"
   institution = "Department of Computer Science and Engineering, Chalmers University of Technology"
-  year = 2021
 
 [[education.courses]]
-  course = "BSc in Informatics and System Science"
+  course = "BSc in Informatics - Systems Science"
   institution = "Department of Applied IT, University of Gothenburg"
   year = 2019
 
@@ -63,7 +60,6 @@ interests = [
   link = "https://github.com/jun182"
 
 [[social]]
-
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://linkedin.com/in/johnhamnesjo"
@@ -80,6 +76,8 @@ interests = [
 Hello there.
 --------------
 
-I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta student union, and is finishing my thesis in the Informatics programme at the Department of Applied IT of the University of Gothenburg.
+I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta student union, and is also finishing my thesis in the Informatics programme at the Department of Applied IT of the University of Gothenburg.
 
-Next semester I'll be starting the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the IT-section during this time. 
+In addition to this I'm also working as a TA for the System Development Project course TIG059.
+
+This coming year I'll be a part of the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the IT-section during this time. 
