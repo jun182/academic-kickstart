@@ -23,7 +23,7 @@ organizations = [
 
 # Short bio (displayed in user profile at end of posts)
 bio = "MSc student with a main interest in Human-Computer Interaction and Data Science."
-
+git
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
