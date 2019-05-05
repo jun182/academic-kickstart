@@ -18,12 +18,11 @@ organizations = [
                 { name = "Department of Applied IT",                       url = "http://www.ait.gu.se"},
 	       	      { name = "Chalmers University of Technology",		           url = "https://www.chalmers.se"},
 		            { name = "IT-faculty at University of Gothenburg",         url = "https://itufak.gu.se"},
-		            { name = "IT-section at Göta Student Union",              url = "https://www.gotastudentkar.se/sektioner/it-section"}
+		            { name = "IT-section at Göta Student Union",               url = "https://www.gotastudentkar.se/sektioner/it-section"}
                    ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "MSc student with a main interest in Human-Computer Interaction and Data Science."
-git
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
