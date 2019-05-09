@@ -74,6 +74,9 @@ interests = [
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
+
+# This coming year I'll be a part of the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the IT-section during this time. 
+
 +++
 --------------
 Hello there.
@@ -83,4 +86,3 @@ I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta
 
 In addition to this I'm also working as a TA for the System Development Project course TIG059.
 
-#This coming year I'll be a part of the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the #IT-section during this time. 
