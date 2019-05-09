@@ -9,20 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Interaction Design and System Design @ Chalmers"
+role = "Informatics and System Development at the University of Gothenburg"
 
 # Organizations/Affiliations
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [
-                { name = "Department of Computer Science and Engineering", url = "https://www.chalmers.se/en/departments/cse/Pages/default.aspx"},
+                
                 { name = "Department of Applied IT",                       url = "http://www.ait.gu.se"},
-	       	      { name = "Chalmers University of Technology",		           url = "https://www.chalmers.se"},
 		            { name = "IT-faculty at University of Gothenburg",         url = "https://itufak.gu.se"},
 		            { name = "IT-section at Göta Student Union",               url = "https://www.gotastudentkar.se/sektioner/it-section"}
                    ]
 
+# { name = "Chalmers University of Technology",		           url = "https://www.chalmers.se"},
+# { name = "Department of Computer Science and Engineering", url = "https://www.chalmers.se/en/departments/cse/Pages/default.aspx"},
+# add these later when you actually start them
+
 # Short bio (displayed in user profile at end of posts)
-bio = "MSc student with a main interest in Human-Computer Interaction and Data Science."
+bio = "BSc student with a main interest in Human-Computer Interaction and Data Science."
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
@@ -39,9 +42,10 @@ interests = [
 # user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "MSc candidate, Computer Science and Engineering - Interaction Design"
-  institution = "Department of Computer Science and Engineering, Chalmers University of Technology"
+
+#[[education.courses]]
+#  course = "MSc candidate, Computer Science and Engineering - Interaction Design"
+#  institution = "Department of Computer Science and Engineering, Chalmers University of Technology"
 
 [[education.courses]]
   course = "BSc in Informatics - Systems Science"
@@ -79,4 +83,4 @@ I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta
 
 In addition to this I'm also working as a TA for the System Development Project course TIG059.
 
-This coming year I'll be a part of the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the IT-section during this time. 
+#This coming year I'll be a part of the Interaction Design and Technology MSc programme at Chalmers, and will continue on as Chairman of the #IT-section during this time. 
