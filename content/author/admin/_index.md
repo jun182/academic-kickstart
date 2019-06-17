@@ -16,8 +16,9 @@ role = "Informatics and System Development at the University of Gothenburg"
 organizations = [
                 
                 { name = "Department of Applied IT",                       url = "http://www.ait.gu.se"},
-		            { name = "IT-faculty at University of Gothenburg",         url = "https://itufak.gu.se"},
-		            { name = "IT-section at Göta Student Union",               url = "https://www.gotastudentkar.se/sektioner/it-section"}
+                { name = "Department of Computer Science and Engineering",   url = "http://www.cse.chalmers.se"},
+		            { name = "IT-faculty at Chalmers and the University of Gothenburg",         url = "https://itufak.gu.se"},
+		            { name = "IT-section at Göta Student Union",               url = "https://www.gotastudentkar.se/sektioner/it-section"},
                    ]
 
 # { name = "Chalmers University of Technology",		           url = "https://www.chalmers.se"},
@@ -25,7 +26,7 @@ organizations = [
 # add these later when you actually start them
 
 # Short bio (displayed in user profile at end of posts)
-bio = "BSc student with a main interest in Human-Computer Interaction and Data Science."
+bio = "MSc student with a main interest in Human-Computer Interaction, Statistics, and Computer Science."
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
@@ -46,6 +47,11 @@ interests = [
 #[[education.courses]]
 #  course = "MSc candidate, Computer Science and Engineering - Interaction Design"
 #  institution = "Department of Computer Science and Engineering, Chalmers University of Technology"
+
+[[education.courses]]
+  course = "MSc candidate in Computer Science - Interaction Design and Technologies"
+  institution = "Department of Computer Science and Engineering, Chalmers"
+  year = 2019
 
 [[education.courses]]
   course = "BSc in Informatics - Systems Science"
@@ -82,7 +88,7 @@ interests = [
 Hello there.
 --------------
 
-I'm Johnny. I'm currently active as the Vice chairman of the IT-section at Göta student union, and is also finishing my thesis in the Informatics programme at the Department of Applied IT of the University of Gothenburg.
+I'm Johnny. I'm currently active as the Chairman of the IT-section at Göta student union, and is a MSc student at the Interaction Design and Technologies programme at Chalmers University, studying Computer Science and HCI. I have also recently graduated from the Informatics programme at the Department of Applied IT of the University of Gothenburg. 
 
-In addition to this I'm also working as a TA for the System Development Project course TIG059.
+In addition to this I have also worked as a TA for various courses in Informatics and Programming at the IT-faculty.
 
